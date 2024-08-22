@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: weather_prediction
+Version: 0.0.1
+Author: ankit
+Author-email: ankitparahar000@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn
+Requires-Dist: Flask
