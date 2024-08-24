@@ -23,3 +23,11 @@ def save_object(file_path,obj):
     except Exception as e:
         logging.info("Exception is occured in utils file")
         raise Custom_Exception(e,sys)
+    
+
+def load_object(file_path):
+    try:
+        with open(file_path,"rb") as file_object:
+            pickle.load(file_object)
+    except Exception as e:
+        raise Custom_Exception(e,sys)
