@@ -6,7 +6,7 @@
   "depends": [
     "python >=3.5"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\decorator-5.1.1-pyhd8ed1ab_0",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\decorator-5.1.1-pyhd8ed1ab_0",
   "files": [
     "Lib/site-packages/decorator-5.1.1.dist-info/INSTALLER",
     "Lib/site-packages/decorator-5.1.1.dist-info/LICENSE.txt",
@@ -24,13 +24,13 @@
   "fn": "decorator-5.1.1-pyhd8ed1ab_0.tar.bz2",
   "license": "BSD-2-Clause",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\decorator-5.1.1-pyhd8ed1ab_0",
+    "source": "D:\\anaconda3\\pkgs\\decorator-5.1.1-pyhd8ed1ab_0",
     "type": 1
   },
   "md5": "43afe5ab04e35e17ba28649471dd7364",
   "name": "decorator",
   "noarch": "python",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\decorator-5.1.1-pyhd8ed1ab_0.tar.bz2",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\decorator-5.1.1-pyhd8ed1ab_0.tar.bz2",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [

@@ -19,7 +19,7 @@
     "tornado >=6.1",
     "traitlets >=5.4.0"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\ipykernel-6.29.5-pyh4bbf305_0",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\ipykernel-6.29.5-pyh4bbf305_0",
   "files": [
     "share/jupyter/kernels/python3/kernel.json",
     "share/jupyter/kernels/python3/logo-32x32.png",
@@ -127,13 +127,13 @@
   "fn": "ipykernel-6.29.5-pyh4bbf305_0.conda",
   "license": "BSD-3-Clause",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\ipykernel-6.29.5-pyh4bbf305_0",
+    "source": "D:\\anaconda3\\pkgs\\ipykernel-6.29.5-pyh4bbf305_0",
     "type": 1
   },
   "md5": "18df5fc4944a679e085e0e8f31775fc8",
   "name": "ipykernel",
   "noarch": "python",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\ipykernel-6.29.5-pyh4bbf305_0.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\ipykernel-6.29.5-pyh4bbf305_0.conda",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [

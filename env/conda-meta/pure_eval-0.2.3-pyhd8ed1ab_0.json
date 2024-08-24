@@ -6,7 +6,7 @@
   "depends": [
     "python >=3.5"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\pure_eval-0.2.3-pyhd8ed1ab_0",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\pure_eval-0.2.3-pyhd8ed1ab_0",
   "files": [
     "Lib/site-packages/pure_eval-0.2.3.dist-info/INSTALLER",
     "Lib/site-packages/pure_eval-0.2.3.dist-info/LICENSE.txt",
@@ -32,13 +32,13 @@
   "fn": "pure_eval-0.2.3-pyhd8ed1ab_0.conda",
   "license": "MIT",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\pure_eval-0.2.3-pyhd8ed1ab_0",
+    "source": "D:\\anaconda3\\pkgs\\pure_eval-0.2.3-pyhd8ed1ab_0",
     "type": 1
   },
   "md5": "0f051f09d992e0d08941706ad519ee0e",
   "name": "pure_eval",
   "noarch": "python",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\pure_eval-0.2.3-pyhd8ed1ab_0.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\pure_eval-0.2.3-pyhd8ed1ab_0.conda",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [

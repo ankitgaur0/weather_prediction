@@ -18,7 +18,7 @@
     "xz >=5.2.6,<6.0a0",
     "pip"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\python-3.9.19-h4de0772_0_cpython",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\python-3.9.19-h4de0772_0_cpython",
   "files": [
     "DLLs/_asyncio.pyd",
     "DLLs/_bz2.pyd",
@@ -2382,12 +2382,12 @@
   "fn": "python-3.9.19-h4de0772_0_cpython.conda",
   "license": "Python-2.0",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\python-3.9.19-h4de0772_0_cpython",
+    "source": "D:\\anaconda3\\pkgs\\python-3.9.19-h4de0772_0_cpython",
     "type": 1
   },
   "md5": "b6999bc275e0e6beae7b1c8ea0be1e85",
   "name": "python",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\python-3.9.19-h4de0772_0_cpython.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\python-3.9.19-h4de0772_0_cpython.conda",
   "paths_data": {
     "paths": [
       {

@@ -9,7 +9,7 @@
     "vc >=14.2,<15",
     "vc14_runtime >=14.29.30139"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\krb5-1.21.3-hdf4eb48_0",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\krb5-1.21.3-hdf4eb48_0",
   "files": [
     "Library/bin/ccapiserver.exe",
     "Library/bin/comerr64.dll",
@@ -56,12 +56,12 @@
   "fn": "krb5-1.21.3-hdf4eb48_0.conda",
   "license": "MIT",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\krb5-1.21.3-hdf4eb48_0",
+    "source": "D:\\anaconda3\\pkgs\\krb5-1.21.3-hdf4eb48_0",
     "type": 1
   },
   "md5": "31aec030344e962fbd7dbbbbd68e60a9",
   "name": "krb5",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\krb5-1.21.3-hdf4eb48_0.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\krb5-1.21.3-hdf4eb48_0.conda",
   "paths_data": {
     "paths": [
       {

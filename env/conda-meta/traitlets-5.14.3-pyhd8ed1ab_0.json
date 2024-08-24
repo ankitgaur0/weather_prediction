@@ -6,7 +6,7 @@
   "depends": [
     "python >=3.8"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\traitlets-5.14.3-pyhd8ed1ab_0",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\traitlets-5.14.3-pyhd8ed1ab_0",
   "files": [
     "Lib/site-packages/traitlets-5.14.3.dist-info/INSTALLER",
     "Lib/site-packages/traitlets-5.14.3.dist-info/METADATA",
@@ -69,13 +69,13 @@
   "fn": "traitlets-5.14.3-pyhd8ed1ab_0.conda",
   "license": "BSD-3-Clause",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\traitlets-5.14.3-pyhd8ed1ab_0",
+    "source": "D:\\anaconda3\\pkgs\\traitlets-5.14.3-pyhd8ed1ab_0",
     "type": 1
   },
   "md5": "3df84416a021220d8b5700c613af2dc5",
   "name": "traitlets",
   "noarch": "python",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\traitlets-5.14.3-pyhd8ed1ab_0.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\traitlets-5.14.3-pyhd8ed1ab_0.conda",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [

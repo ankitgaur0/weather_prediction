@@ -6,20 +6,20 @@
   "depends": [
     "importlib-metadata >=8.4.0,<8.4.1.0a0"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\importlib_metadata-8.4.0-hd8ed1ab_0",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\importlib_metadata-8.4.0-hd8ed1ab_0",
   "files": [
     ".nonadmin"
   ],
   "fn": "importlib_metadata-8.4.0-hd8ed1ab_0.conda",
   "license": "Apache-2.0",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\importlib_metadata-8.4.0-hd8ed1ab_0",
+    "source": "D:\\anaconda3\\pkgs\\importlib_metadata-8.4.0-hd8ed1ab_0",
     "type": 1
   },
   "md5": "01b7411c765c3d863dcc920207f258bd",
   "name": "importlib_metadata",
   "noarch": "generic",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\importlib_metadata-8.4.0-hd8ed1ab_0.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\importlib_metadata-8.4.0-hd8ed1ab_0.conda",
   "package_type": "noarch_generic",
   "paths_data": {
     "paths": [],

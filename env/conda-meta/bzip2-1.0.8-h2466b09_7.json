@@ -8,7 +8,7 @@
     "vc >=14.2,<15",
     "vc14_runtime >=14.29.30139"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\bzip2-1.0.8-h2466b09_7",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\bzip2-1.0.8-h2466b09_7",
   "files": [
     "Library/bin/libbz2.dll",
     "Library/include/bzlib.h",
@@ -21,12 +21,12 @@
   "fn": "bzip2-1.0.8-h2466b09_7.conda",
   "license": "bzip2-1.0.6",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\bzip2-1.0.8-h2466b09_7",
+    "source": "D:\\anaconda3\\pkgs\\bzip2-1.0.8-h2466b09_7",
     "type": 1
   },
   "md5": "276e7ffe9ffe39688abc665ef0f45596",
   "name": "bzip2",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\bzip2-1.0.8-h2466b09_7.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\bzip2-1.0.8-h2466b09_7.conda",
   "paths_data": {
     "paths": [
       {

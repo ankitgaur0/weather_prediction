@@ -7,7 +7,7 @@
     "vc >=14.1,<15",
     "vs2015_runtime >=14.16.27033"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\xz-5.2.6-h8d14728_0",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\xz-5.2.6-h8d14728_0",
   "files": [
     "Library/bin/liblzma.dll",
     "Library/bin/lzmainfo.exe",
@@ -35,12 +35,12 @@
   "fn": "xz-5.2.6-h8d14728_0.tar.bz2",
   "license": "LGPL-2.1 and GPL-2.0",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\xz-5.2.6-h8d14728_0",
+    "source": "D:\\anaconda3\\pkgs\\xz-5.2.6-h8d14728_0",
     "type": 1
   },
   "md5": "515d77642eaa3639413c6b1bc3f94219",
   "name": "xz",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\xz-5.2.6-h8d14728_0.tar.bz2",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\xz-5.2.6-h8d14728_0.tar.bz2",
   "paths_data": {
     "paths": [
       {

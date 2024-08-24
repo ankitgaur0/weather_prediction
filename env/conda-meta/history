@@ -1,6 +1,6 @@
-==> 2024-08-22 13:23:22 <==
-# cmd: C:\Users\ankit\anaconda3\Scripts\conda-script.py create --prefix env python==3.9 -y
-# conda version: 24.7.1
+==> 2024-08-23 10:10:08 <==
+# cmd: D:\anaconda3\Scripts\conda-script.py create --prefix env python==3.9 -y
+# conda version: 24.5.0
 +defaults/noarch::tzdata-2024a-h04d1e81_0
 +defaults/win-64::ca-certificates-2024.7.2-haa95532_0
 +defaults/win-64::openssl-1.1.1w-h2bbff1b_0
@@ -12,9 +12,9 @@
 +defaults/win-64::vs2015_runtime-14.40.33807-h98bb1dd_0
 +defaults/win-64::wheel-0.43.0-py39haa95532_0
 # update specs: ['python==3.9']
-==> 2024-08-22 14:23:25 <==
-# cmd: C:\Users\ankit\anaconda3\Scripts\conda-script.py install -c conda-forge --prefix d:/weather/env ipykernel -y
-# conda version: 24.7.1
+==> 2024-08-23 11:01:52 <==
+# cmd: D:\anaconda3\Scripts\conda-script.py install -c conda-forge --prefix d:/weather/env ipykernel -y
+# conda version: 24.5.0
 -defaults/win-64::ca-certificates-2024.7.2-haa95532_0
 -defaults/win-64::openssl-1.1.1w-h2bbff1b_0
 -defaults/win-64::python-3.9.0-h6244533_2

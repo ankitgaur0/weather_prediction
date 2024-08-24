@@ -6,7 +6,7 @@
   "depends": [
     "python >=3.8"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\platformdirs-4.2.2-pyhd8ed1ab_0",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\platformdirs-4.2.2-pyhd8ed1ab_0",
   "files": [
     "Lib/site-packages/platformdirs-4.2.2.dist-info/INSTALLER",
     "Lib/site-packages/platformdirs-4.2.2.dist-info/METADATA",
@@ -37,13 +37,13 @@
   "fn": "platformdirs-4.2.2-pyhd8ed1ab_0.conda",
   "license": "MIT",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\platformdirs-4.2.2-pyhd8ed1ab_0",
+    "source": "D:\\anaconda3\\pkgs\\platformdirs-4.2.2-pyhd8ed1ab_0",
     "type": 1
   },
   "md5": "6f6cf28bf8e021933869bae3f84b8fc9",
   "name": "platformdirs",
   "noarch": "python",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\platformdirs-4.2.2-pyhd8ed1ab_0.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\platformdirs-4.2.2-pyhd8ed1ab_0.conda",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [

@@ -6,7 +6,7 @@
   "depends": [
     "python >=3"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\pickleshare-0.7.5-py_1003",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\pickleshare-0.7.5-py_1003",
   "files": [
     "Lib/site-packages/pickleshare-0.7.5.dist-info/INSTALLER",
     "Lib/site-packages/pickleshare-0.7.5.dist-info/LICENSE",
@@ -23,13 +23,13 @@
   "fn": "pickleshare-0.7.5-py_1003.tar.bz2",
   "license": "MIT",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\pickleshare-0.7.5-py_1003",
+    "source": "D:\\anaconda3\\pkgs\\pickleshare-0.7.5-py_1003",
     "type": 1
   },
   "md5": "415f0ebb6198cc2801c73438a9fb5761",
   "name": "pickleshare",
   "noarch": "python",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\pickleshare-0.7.5-py_1003.tar.bz2",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\pickleshare-0.7.5-py_1003.tar.bz2",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [

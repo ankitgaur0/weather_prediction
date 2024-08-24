@@ -7,7 +7,7 @@
     "python >=3.8",
     "zipp >=0.5"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\importlib-metadata-8.4.0-pyha770c72_0",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\importlib-metadata-8.4.0-pyha770c72_0",
   "files": [
     "Lib/site-packages/importlib_metadata-8.4.0.dist-info/INSTALLER",
     "Lib/site-packages/importlib_metadata-8.4.0.dist-info/LICENSE",
@@ -47,13 +47,13 @@
   "fn": "importlib-metadata-8.4.0-pyha770c72_0.conda",
   "license": "Apache-2.0",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\importlib-metadata-8.4.0-pyha770c72_0",
+    "source": "D:\\anaconda3\\pkgs\\importlib-metadata-8.4.0-pyha770c72_0",
     "type": 1
   },
   "md5": "6e3dbc422d3749ad72659243d6ac8b2b",
   "name": "importlib-metadata",
   "noarch": "python",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\importlib-metadata-8.4.0-pyha770c72_0.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\importlib-metadata-8.4.0-pyha770c72_0.conda",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [

@@ -6,19 +6,19 @@
   "depends": [
     "vs2015_runtime >=14.40.33807"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\vc-14.40-h2eaa2aa_0",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\vc-14.40-h2eaa2aa_0",
   "files": [
     ".nonadmin"
   ],
   "fn": "vc-14.40-h2eaa2aa_0.conda",
   "license": "BSD-3-Clause",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\vc-14.40-h2eaa2aa_0",
+    "source": "D:\\anaconda3\\pkgs\\vc-14.40-h2eaa2aa_0",
     "type": 1
   },
   "md5": "80f26b3a9e975d3e119f6fc41a4c82ae",
   "name": "vc",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\vc-14.40-h2eaa2aa_0.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\vc-14.40-h2eaa2aa_0.conda",
   "paths_data": {
     "paths": [],
     "paths_version": 1

@@ -9,7 +9,7 @@
     "pure_eval",
     "python >=3.5"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\stack_data-0.6.2-pyhd8ed1ab_0",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\stack_data-0.6.2-pyhd8ed1ab_0",
   "files": [
     "Lib/site-packages/stack_data-0.6.2.dist-info/INSTALLER",
     "Lib/site-packages/stack_data-0.6.2.dist-info/LICENSE.txt",
@@ -37,13 +37,13 @@
   "fn": "stack_data-0.6.2-pyhd8ed1ab_0.conda",
   "license": "MIT",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\stack_data-0.6.2-pyhd8ed1ab_0",
+    "source": "D:\\anaconda3\\pkgs\\stack_data-0.6.2-pyhd8ed1ab_0",
     "type": 1
   },
   "md5": "e7df0fdd404616638df5ece6e69ba7af",
   "name": "stack_data",
   "noarch": "python",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\stack_data-0.6.2-pyhd8ed1ab_0.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\stack_data-0.6.2-pyhd8ed1ab_0.conda",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [

@@ -8,7 +8,7 @@
     "vc >=14.2,<15",
     "vc14_runtime >=14.29.30139"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\tk-8.6.13-h5226925_1",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\tk-8.6.13-h5226925_1",
   "files": [
     "Library/bin/tcl86t.dll",
     "Library/bin/tclsh.exe",
@@ -1110,12 +1110,12 @@
   "fn": "tk-8.6.13-h5226925_1.conda",
   "license": "TCL",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\tk-8.6.13-h5226925_1",
+    "source": "D:\\anaconda3\\pkgs\\tk-8.6.13-h5226925_1",
     "type": 1
   },
   "md5": "fc048363eb8f03cd1737600a5d08aafe",
   "name": "tk",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\tk-8.6.13-h5226925_1.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\tk-8.6.13-h5226925_1.conda",
   "paths_data": {
     "paths": [
       {

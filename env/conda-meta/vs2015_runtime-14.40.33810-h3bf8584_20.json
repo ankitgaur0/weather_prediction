@@ -6,19 +6,19 @@
   "depends": [
     "vc14_runtime >=14.40.33810"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\vs2015_runtime-14.40.33810-h3bf8584_20",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\vs2015_runtime-14.40.33810-h3bf8584_20",
   "files": [
     ".nonadmin"
   ],
   "fn": "vs2015_runtime-14.40.33810-h3bf8584_20.conda",
   "license": "BSD-3-Clause",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\vs2015_runtime-14.40.33810-h3bf8584_20",
+    "source": "D:\\anaconda3\\pkgs\\vs2015_runtime-14.40.33810-h3bf8584_20",
     "type": 1
   },
   "md5": "c21f1b4a3a30bbc3ef35a50957578e0e",
   "name": "vs2015_runtime",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\vs2015_runtime-14.40.33810-h3bf8584_20.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\vs2015_runtime-14.40.33810-h3bf8584_20.conda",
   "paths_data": {
     "paths": [],
     "paths_version": 1

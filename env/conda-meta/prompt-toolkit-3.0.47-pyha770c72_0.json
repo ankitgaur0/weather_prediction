@@ -9,7 +9,7 @@
     "python >=3.7",
     "wcwidth"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\prompt-toolkit-3.0.47-pyha770c72_0",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\prompt-toolkit-3.0.47-pyha770c72_0",
   "files": [
     "Lib/site-packages/prompt_toolkit-3.0.47.dist-info/AUTHORS.rst",
     "Lib/site-packages/prompt_toolkit-3.0.47.dist-info/INSTALLER",
@@ -314,13 +314,13 @@
   "fn": "prompt-toolkit-3.0.47-pyha770c72_0.conda",
   "license": "BSD-3-Clause",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\prompt-toolkit-3.0.47-pyha770c72_0",
+    "source": "D:\\anaconda3\\pkgs\\prompt-toolkit-3.0.47-pyha770c72_0",
     "type": 1
   },
   "md5": "1247c861065d227781231950e14fe817",
   "name": "prompt-toolkit",
   "noarch": "python",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\prompt-toolkit-3.0.47-pyha770c72_0.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\prompt-toolkit-3.0.47-pyha770c72_0.conda",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [

@@ -10,7 +10,7 @@
     "vc >=14.2,<15",
     "vc14_runtime >=14.29.30139"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\pywin32-306-py39h99910a6_2",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\pywin32-306-py39h99910a6_2",
   "files": [
     "Lib/site-packages/__pycache__/pythoncom.cpython-39.pyc",
     "Lib/site-packages/adodbapi/__init__.py",
@@ -1042,12 +1042,12 @@
   "fn": "pywin32-306-py39h99910a6_2.conda",
   "license": "PSF-2.0",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\pywin32-306-py39h99910a6_2",
+    "source": "D:\\anaconda3\\pkgs\\pywin32-306-py39h99910a6_2",
     "type": 1
   },
   "md5": "eab91442160b49994dd2e224e6082770",
   "name": "pywin32",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\pywin32-306-py39h99910a6_2.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\pywin32-306-py39h99910a6_2.conda",
   "paths_data": {
     "paths": [
       {

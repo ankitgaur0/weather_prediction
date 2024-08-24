@@ -8,7 +8,7 @@
     "vc >=14.2,<15",
     "vc14_runtime >=14.29.30139"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\libsqlite-3.46.0-h2466b09_0",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\libsqlite-3.46.0-h2466b09_0",
   "files": [
     "Library/bin/sqlite3.dll",
     "Library/include/sqlite3.h",
@@ -19,12 +19,12 @@
   "fn": "libsqlite-3.46.0-h2466b09_0.conda",
   "license": "Unlicense",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\libsqlite-3.46.0-h2466b09_0",
+    "source": "D:\\anaconda3\\pkgs\\libsqlite-3.46.0-h2466b09_0",
     "type": 1
   },
   "md5": "951b0a3a463932e17414cd9f047fa03d",
   "name": "libsqlite",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\libsqlite-3.46.0-h2466b09_0.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\libsqlite-3.46.0-h2466b09_0.conda",
   "paths_data": {
     "paths": [
       {

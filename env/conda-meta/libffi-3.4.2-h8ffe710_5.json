@@ -7,7 +7,7 @@
     "vc >=14.1,<15.0a0",
     "vs2015_runtime >=14.16.27012"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\libffi-3.4.2-h8ffe710_5",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\libffi-3.4.2-h8ffe710_5",
   "files": [
     "Library/bin/ffi-8.dll",
     "Library/include/ffi.h",
@@ -25,12 +25,12 @@
   "fn": "libffi-3.4.2-h8ffe710_5.tar.bz2",
   "license": "MIT",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\libffi-3.4.2-h8ffe710_5",
+    "source": "D:\\anaconda3\\pkgs\\libffi-3.4.2-h8ffe710_5",
     "type": 1
   },
   "md5": "2c96d1b6915b408893f9472569dee135",
   "name": "libffi",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\libffi-3.4.2-h8ffe710_5.tar.bz2",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\libffi-3.4.2-h8ffe710_5.tar.bz2",
   "paths_data": {
     "paths": [
       {

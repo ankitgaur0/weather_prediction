@@ -10,7 +10,7 @@
     "vc >=14.2,<15",
     "vc14_runtime >=14.29.30139"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\zeromq-4.3.5-he1f189c_4",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\zeromq-4.3.5-he1f189c_4",
   "files": [
     "Library/bin/libzmq-mt-4_3_5.dll",
     "Library/bin/libzmq.dll",
@@ -32,12 +32,12 @@
   "fn": "zeromq-4.3.5-he1f189c_4.conda",
   "license": "MPL-2.0",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\zeromq-4.3.5-he1f189c_4",
+    "source": "D:\\anaconda3\\pkgs\\zeromq-4.3.5-he1f189c_4",
     "type": 1
   },
   "md5": "b755eb545c2728b9a53729f02e627834",
   "name": "zeromq",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\zeromq-4.3.5-he1f189c_4.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\zeromq-4.3.5-he1f189c_4.conda",
   "paths_data": {
     "paths": [
       {

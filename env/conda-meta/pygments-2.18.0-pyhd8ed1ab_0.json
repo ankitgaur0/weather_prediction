@@ -6,7 +6,7 @@
   "depends": [
     "python >=3.8"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\pygments-2.18.0-pyhd8ed1ab_0",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\pygments-2.18.0-pyhd8ed1ab_0",
   "files": [
     "Lib/site-packages/pygments-2.18.0.dist-info/INSTALLER",
     "Lib/site-packages/pygments-2.18.0.dist-info/METADATA",
@@ -678,13 +678,13 @@
   "fn": "pygments-2.18.0-pyhd8ed1ab_0.conda",
   "license": "BSD-2-Clause",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\pygments-2.18.0-pyhd8ed1ab_0",
+    "source": "D:\\anaconda3\\pkgs\\pygments-2.18.0-pyhd8ed1ab_0",
     "type": 1
   },
   "md5": "b7f5c092b8f9800150d998a71b76d5a1",
   "name": "pygments",
   "noarch": "python",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\pygments-2.18.0-pyhd8ed1ab_0.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\pygments-2.18.0-pyhd8ed1ab_0.conda",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [

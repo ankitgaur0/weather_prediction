@@ -7,7 +7,7 @@
     "python >=3.6",
     "traitlets"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\matplotlib-inline-0.1.7-pyhd8ed1ab_0",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\matplotlib-inline-0.1.7-pyhd8ed1ab_0",
   "files": [
     "Lib/site-packages/matplotlib_inline-0.1.7.dist-info/INSTALLER",
     "Lib/site-packages/matplotlib_inline-0.1.7.dist-info/LICENSE",
@@ -29,13 +29,13 @@
   "fn": "matplotlib-inline-0.1.7-pyhd8ed1ab_0.conda",
   "license": "BSD-3-Clause",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\matplotlib-inline-0.1.7-pyhd8ed1ab_0",
+    "source": "D:\\anaconda3\\pkgs\\matplotlib-inline-0.1.7-pyhd8ed1ab_0",
     "type": 1
   },
   "md5": "779345c95648be40d22aaa89de7d4254",
   "name": "matplotlib-inline",
   "noarch": "python",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\matplotlib-inline-0.1.7-pyhd8ed1ab_0.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\matplotlib-inline-0.1.7-pyhd8ed1ab_0.conda",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [

@@ -6,7 +6,7 @@
   "depends": [
     "python >=3.6"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\parso-0.8.4-pyhd8ed1ab_0",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\parso-0.8.4-pyhd8ed1ab_0",
   "files": [
     "Lib/site-packages/parso-0.8.4.dist-info/AUTHORS.txt",
     "Lib/site-packages/parso-0.8.4.dist-info/INSTALLER",
@@ -72,13 +72,13 @@
   "fn": "parso-0.8.4-pyhd8ed1ab_0.conda",
   "license": "MIT",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\parso-0.8.4-pyhd8ed1ab_0",
+    "source": "D:\\anaconda3\\pkgs\\parso-0.8.4-pyhd8ed1ab_0",
     "type": 1
   },
   "md5": "81534b420deb77da8833f2289b8d47ac",
   "name": "parso",
   "noarch": "python",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\parso-0.8.4-pyhd8ed1ab_0.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\parso-0.8.4-pyhd8ed1ab_0.conda",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [

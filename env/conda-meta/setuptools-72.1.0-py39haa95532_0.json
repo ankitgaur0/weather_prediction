@@ -6,7 +6,7 @@
   "depends": [
     "python >=3.9,<3.10.0a0"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\setuptools-72.1.0-py39haa95532_0",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\setuptools-72.1.0-py39haa95532_0",
   "files": [
     "Lib/site-packages/_distutils_hack/__init__.py",
     "Lib/site-packages/_distutils_hack/__pycache__/__init__.cpython-39.pyc",
@@ -1019,12 +1019,12 @@
   "fn": "setuptools-72.1.0-py39haa95532_0.conda",
   "license": "MIT",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\setuptools-72.1.0-py39haa95532_0",
+    "source": "D:\\anaconda3\\pkgs\\setuptools-72.1.0-py39haa95532_0",
     "type": 1
   },
   "md5": "7b523f0edeb29ff5230c4b246f074c87",
   "name": "setuptools",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\setuptools-72.1.0-py39haa95532_0.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\setuptools-72.1.0-py39haa95532_0.conda",
   "paths_data": {
     "paths": [
       {

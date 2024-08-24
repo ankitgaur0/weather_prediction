@@ -7,7 +7,7 @@
     "python >=3.7",
     "six >=1.5"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\python-dateutil-2.9.0-pyhd8ed1ab_0",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\python-dateutil-2.9.0-pyhd8ed1ab_0",
   "files": [
     "Lib/site-packages/dateutil/__init__.py",
     "Lib/site-packages/dateutil/_common.py",
@@ -60,13 +60,13 @@
   "fn": "python-dateutil-2.9.0-pyhd8ed1ab_0.conda",
   "license": "Apache-2.0",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\python-dateutil-2.9.0-pyhd8ed1ab_0",
+    "source": "D:\\anaconda3\\pkgs\\python-dateutil-2.9.0-pyhd8ed1ab_0",
     "type": 1
   },
   "md5": "2cf4264fffb9e6eff6031c5b6884d61c",
   "name": "python-dateutil",
   "noarch": "python",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\python-dateutil-2.9.0-pyhd8ed1ab_0.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\python-dateutil-2.9.0-pyhd8ed1ab_0.conda",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [

@@ -7,7 +7,7 @@
     "python >=3.6",
     "traitlets >=5.3"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\comm-0.2.2-pyhd8ed1ab_0",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\comm-0.2.2-pyhd8ed1ab_0",
   "files": [
     "Lib/site-packages/comm-0.2.2.dist-info/INSTALLER",
     "Lib/site-packages/comm-0.2.2.dist-info/METADATA",
@@ -26,13 +26,13 @@
   "fn": "comm-0.2.2-pyhd8ed1ab_0.conda",
   "license": "BSD-3-Clause",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\comm-0.2.2-pyhd8ed1ab_0",
+    "source": "D:\\anaconda3\\pkgs\\comm-0.2.2-pyhd8ed1ab_0",
     "type": 1
   },
   "md5": "948d84721b578d426294e17a02e24cbb",
   "name": "comm",
   "noarch": "python",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\comm-0.2.2-pyhd8ed1ab_0.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\comm-0.2.2-pyhd8ed1ab_0.conda",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [

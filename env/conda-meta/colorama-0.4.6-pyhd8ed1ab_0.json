@@ -6,7 +6,7 @@
   "depends": [
     "python >=3.7"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\colorama-0.4.6-pyhd8ed1ab_0",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\colorama-0.4.6-pyhd8ed1ab_0",
   "files": [
     "Lib/site-packages/colorama-0.4.6.dist-info/INSTALLER",
     "Lib/site-packages/colorama-0.4.6.dist-info/METADATA",
@@ -46,13 +46,13 @@
   "fn": "colorama-0.4.6-pyhd8ed1ab_0.tar.bz2",
   "license": "BSD-3-Clause",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\colorama-0.4.6-pyhd8ed1ab_0",
+    "source": "D:\\anaconda3\\pkgs\\colorama-0.4.6-pyhd8ed1ab_0",
     "type": 1
   },
   "md5": "3faab06a954c2a04039983f2c4a50d99",
   "name": "colorama",
   "noarch": "python",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\colorama-0.4.6-pyhd8ed1ab_0.tar.bz2",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\colorama-0.4.6-pyhd8ed1ab_0.tar.bz2",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [

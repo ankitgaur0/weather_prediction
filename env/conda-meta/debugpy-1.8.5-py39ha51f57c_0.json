@@ -10,7 +10,7 @@
     "vc >=14.2,<15",
     "vc14_runtime >=14.29.30139"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\debugpy-1.8.5-py39ha51f57c_0",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\debugpy-1.8.5-py39ha51f57c_0",
   "files": [
     "Lib/site-packages/debugpy-1.8.5.dist-info/INSTALLER",
     "Lib/site-packages/debugpy-1.8.5.dist-info/LICENSE",
@@ -546,12 +546,12 @@
   "fn": "debugpy-1.8.5-py39ha51f57c_0.conda",
   "license": "MIT",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\debugpy-1.8.5-py39ha51f57c_0",
+    "source": "D:\\anaconda3\\pkgs\\debugpy-1.8.5-py39ha51f57c_0",
     "type": 1
   },
   "md5": "40789a70cb84ea83ab55af8b6037d3ae",
   "name": "debugpy",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\debugpy-1.8.5-py39ha51f57c_0.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\debugpy-1.8.5-py39ha51f57c_0.conda",
   "paths_data": {
     "paths": [
       {

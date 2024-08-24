@@ -4,7 +4,7 @@
   "channel": "https://conda.anaconda.org/conda-forge/win-64",
   "constrains": [],
   "depends": [],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\ca-certificates-2024.7.4-h56e8100_0",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\ca-certificates-2024.7.4-h56e8100_0",
   "files": [
     "Library/ssl/cacert.pem",
     "Library/ssl/cert.pem",
@@ -13,12 +13,12 @@
   "fn": "ca-certificates-2024.7.4-h56e8100_0.conda",
   "license": "ISC",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\ca-certificates-2024.7.4-h56e8100_0",
+    "source": "D:\\anaconda3\\pkgs\\ca-certificates-2024.7.4-h56e8100_0",
     "type": 1
   },
   "md5": "9caa97c9504072cd060cf0a3142cc0ed",
   "name": "ca-certificates",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\ca-certificates-2024.7.4-h56e8100_0.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\ca-certificates-2024.7.4-h56e8100_0.conda",
   "paths_data": {
     "paths": [
       {

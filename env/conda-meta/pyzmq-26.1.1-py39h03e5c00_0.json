@@ -12,7 +12,7 @@
     "vc14_runtime >=14.29.30139",
     "zeromq >=4.3.5,<4.3.6.0a0"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\pyzmq-26.1.1-py39h03e5c00_0",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\pyzmq-26.1.1-py39h03e5c00_0",
   "files": [
     "Lib/site-packages/pyzmq-26.1.1.dist-info/INSTALLER",
     "Lib/site-packages/pyzmq-26.1.1.dist-info/METADATA",
@@ -180,12 +180,12 @@
   "fn": "pyzmq-26.1.1-py39h03e5c00_0.conda",
   "license": "BSD-3-Clause",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\pyzmq-26.1.1-py39h03e5c00_0",
+    "source": "D:\\anaconda3\\pkgs\\pyzmq-26.1.1-py39h03e5c00_0",
     "type": 1
   },
   "md5": "b641e1ae9ff1605cfea0882c11347e76",
   "name": "pyzmq",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\pyzmq-26.1.1-py39h03e5c00_0.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\pyzmq-26.1.1-py39h03e5c00_0.conda",
   "paths_data": {
     "paths": [
       {

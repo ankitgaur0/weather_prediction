@@ -10,7 +10,7 @@
     "vc >=14.2,<15",
     "vc14_runtime >=14.29.30139"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\tornado-6.4.1-py39ha55e580_0",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\tornado-6.4.1-py39ha55e580_0",
   "files": [
     "Lib/site-packages/tornado-6.4.1.dist-info/INSTALLER",
     "Lib/site-packages/tornado-6.4.1.dist-info/LICENSE",
@@ -188,12 +188,12 @@
   "fn": "tornado-6.4.1-py39ha55e580_0.conda",
   "license": "Apache-2.0",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\tornado-6.4.1-py39ha55e580_0",
+    "source": "D:\\anaconda3\\pkgs\\tornado-6.4.1-py39ha55e580_0",
     "type": 1
   },
   "md5": "7d1e87f3036af858ce7e248489c3faec",
   "name": "tornado",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\tornado-6.4.1-py39ha55e580_0.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\tornado-6.4.1-py39ha55e580_0.conda",
   "paths_data": {
     "paths": [
       {

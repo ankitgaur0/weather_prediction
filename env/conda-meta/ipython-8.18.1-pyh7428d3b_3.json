@@ -18,7 +18,7 @@
     "traitlets >=5",
     "typing_extensions"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\ipython-8.18.1-pyh7428d3b_3",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\ipython-8.18.1-pyh7428d3b_3",
   "files": [
     "share/man/man1/ipython.1",
     "Lib/site-packages/IPython/__init__.py",
@@ -596,13 +596,13 @@
   "fn": "ipython-8.18.1-pyh7428d3b_3.conda",
   "license": "BSD-3-Clause",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\ipython-8.18.1-pyh7428d3b_3",
+    "source": "D:\\anaconda3\\pkgs\\ipython-8.18.1-pyh7428d3b_3",
     "type": 1
   },
   "md5": "656a798e52fbe1ca72f7d97b3c36aeff",
   "name": "ipython",
   "noarch": "python",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\ipython-8.18.1-pyh7428d3b_3.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\ipython-8.18.1-pyh7428d3b_3.conda",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [

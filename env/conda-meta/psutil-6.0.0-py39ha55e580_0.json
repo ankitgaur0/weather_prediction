@@ -10,7 +10,7 @@
     "vc >=14.2,<15",
     "vc14_runtime >=14.29.30139"
   ],
-  "extracted_package_dir": "C:\\Users\\ankit\\anaconda3\\pkgs\\psutil-6.0.0-py39ha55e580_0",
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\psutil-6.0.0-py39ha55e580_0",
   "files": [
     "Lib/site-packages/psutil-6.0.0.dist-info/INSTALLER",
     "Lib/site-packages/psutil-6.0.0.dist-info/LICENSE",
@@ -84,12 +84,12 @@
   "fn": "psutil-6.0.0-py39ha55e580_0.conda",
   "license": "BSD-3-Clause",
   "link": {
-    "source": "C:\\Users\\ankit\\anaconda3\\pkgs\\psutil-6.0.0-py39ha55e580_0",
+    "source": "D:\\anaconda3\\pkgs\\psutil-6.0.0-py39ha55e580_0",
     "type": 1
   },
   "md5": "41ed0d6d84590e40a0096ae3a458f5eb",
   "name": "psutil",
-  "package_tarball_full_path": "C:\\Users\\ankit\\anaconda3\\pkgs\\psutil-6.0.0-py39ha55e580_0.conda",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\psutil-6.0.0-py39ha55e580_0.conda",
   "paths_data": {
     "paths": [
       {
