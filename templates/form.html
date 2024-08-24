@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>predict</title>
+</head>
+<body>
+    <form action="{{url_for("predict_datapoints")}}" method="post">
+        <div class="form_group">
+            <label for="Temperature">Temperature:</label>
+            <input type="text" id="Temperature" placeholder="enter the Temperature">
+
+        </div>
+        <div class="form_group">
+            <label for="Humidity">Humidity:</label>
+            <input type="text" id="Humidity" placeholder="enter the Humidity">
+        </div>
+        <div class="form_group">
+            <label for="Wind_Speed ">Wind Speed :</label>
+            <input type="text" id="Wind_Speed " placeholder="enter the speed of Wind">
+        </div>
+        <div class="form_group">
+            <label for="Precipitation">Precipitation (%)</label>
+            <input type="text" id="Precipitation" placeholder="enter the Precipitation in %">
+        </div>
+        <div class="form_group">
+            <label for="Cloud_Cover">Cloud_Cover</label>
+            <select name="Cloud_Cover" id="Cloud_Cover">
+                <option value="partly cloudy">partly cloudy</option>
+                <option value="clear">clear</option>
+                <option value="overcast">overcast</option>
+                <option value="overcast">overcast</option>
+
+            </select>
+        </div>
+        <div class="form_group">
+            <label for="Atmospheric_Pressure">Atmospheric_Pressure</label>
+            <input type="text" id="Atmospheric_Pressure" placeholder="enter the Atmospheric_Pressure">
+        </div>
+        <div class="form_group">
+            <label for="UV_Index">UV_Index</label>
+            <input type="text" id="UV_Index" placeholder="enter the UV UV_Index">
+        </div>
+        <div class="form_group">
+            <label for="Season">Season</label>
+            <select name="Season" id="Season">
+                <option value="Winter">Winter</option>
+                <option value="Spring">Spring</option>
+                <option value="Summer">Summer</option>
+                <option value="Autumn">Autumn</option>
+            </select>
+        </div>
+        <div class="form_group">
+            <label for=" Visibility_km"> Visibility(km)</label>
+            <input type="text" id=" Visibility_km" placeholder="enter the Visibility_km">
+        </div>
+        <div class="form_group">
+            <label for="Location">Location</label>
+            <select name="Location" id="Location">
+                <option value="inland">inland</option>
+                <option value="mountain">mountain</option>
+                <option value="coastal">coastal</option>
+
+            </select>
+        </div>
+        <br>
+        <div style="clear:both"></div>
+        <input type="button" value="Submit">
+        <hr>
+
+    </form>
+</body>
+</html>
