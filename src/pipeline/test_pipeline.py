@@ -8,7 +8,7 @@ from src.Logger import logging
 from src.Exception_handler import Custom_Exception
 from src.Utils import load_object
 
-class test_pipeline:
+class predict_pipeline:
     def __init__(self):
         pass
 
