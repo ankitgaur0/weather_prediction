@@ -16,7 +16,7 @@ from src.Utils import save_object
 import tensorflow
 from tensorflow import keras
 from tensorflow.keras import Sequential
-from tensorflow.keras.layer import Dense
+from tensorflow.keras.layers import Dense
 
 @dataclass
 class ModelConfig:
@@ -33,11 +33,12 @@ class Model_Trainer:
             logging.info("spliting the dependent and independent data")
             #spliting the data in the dependent and independent data from the train and test array
             X_train,y_train,X_test,y_test=(
-                train_array[:,:-1],
-                train_array[:,-1],
-                test_array[:,:-1],
-                test_array[:,-1]
+                train_array[:,:18],
+                train_array[:,18:22],
+                test_array[:,:18],
+                test_array[:,18:22]
              )
+            #making the dataframe of this 
             logging.info("spliting the data is completed in the X_train and X_test and y_train an y_test data")
             logging.info("using the artifical neural network ")
 
@@ -56,8 +57,17 @@ class Model_Trainer:
             metrics="accuracy"
             #compile the model
             model.compile(optimizer=optimizer,loss=loss_function,metrics=[metrics])
+            #just check
+            print("="*40)
+            print("X_train_data_shape =",X_train.shape)
+            print("y_train_data_shape =",y_train.shape)
+            print("X_test_data_shape =",X_test.shape)
+            print("y_test_data_shape =",y_test.shape)
+            print("=" * 40)
+
+
             #now fit the data in the model
-            history=model.fit(model.fit(X_train,y_train,epochs=25,validation_data=[X_test,y_test]))
+            history=model.fit(X_train,y_train,epochs=25,validation_data=(X_test,y_test))
 
             print("the model name is Artifical Neural Network \n activation used = relu and tanh,\n optimzer used =",optimizer,
                   "\n loss function is used =",loss_function,
@@ -72,7 +82,7 @@ class Model_Trainer:
                 )
                 # Check if you also have validation data
                 if 'val_loss' in history.history:
-                    log_message += (
+                    log_message = (
                         f", val_loss = {history.history['val_loss'][epoch]}, "
                         f"val_accuracy = {history.history['val_accuracy'][epoch]}"
                     )

@@ -8,7 +8,7 @@ import pickle
 from src.Logger import logging
 from src.Exception_handler import Custom_Exception
 from src.component.Data_Ingestion import Data_Ingestions
-from src.component.Data_Transformer import Data_Transformation
+
 
 
 
