@@ -17,7 +17,8 @@ from src.Utils import save_object
 
 @dataclass
 class DataTransformer_config:
-    transformer_file_path=os.path.join("artifacts","transformation.pkl")
+    transformer_file_path :str=os.path.join("artifacts","transformation.pkl")
+    One_hot_encoder_path :str=os.path.join("artifacts","ohe.pkl")
 
 class  Data_Transformation:
     def __init__(self):
@@ -53,7 +54,7 @@ class  Data_Transformation:
                 ]
             )
 
-            return (preproccor)
+            return preproccor
 
         except Exception as e:
             raise Custom_Exception(e,sys)
@@ -93,6 +94,8 @@ class  Data_Transformation:
             ohe=OneHotEncoder(sparse_output=False)
             train_target_data=ohe.fit_transform(train_target_data)
             test_target_data=ohe.fit_transform(test_target_data)
+            #save the ohe object for getting inverse_transform
+            save_object(self.transformer_obj.One_hot_encoder_path,obj=ohe)
             # np.c_ is used to concate the array 1D ( form ) to array 2D form.
             train_array=np.c_[input_train_data_array,np.array(train_target_data)]
             test_array=np.c_[input_test_data_array,np.array(test_target_data)]
@@ -103,6 +106,7 @@ class  Data_Transformation:
 
             # save _object function is created in utils file, firt parameter is file_path and second is object
             save_object(self.transformer_obj.transformer_file_path,obj=preprocessor_obj)
+            logging.info("saved the preprocessor object in artifacts folder in pickle form")
             return (
                 train_array,
                 test_array

@@ -16,6 +16,7 @@ class predict_pipeline:
         try:
             preprocessor_obj_path=os.path.join("artifacts","transformation.pkl")
             model_obj_path=os.path.join("artifacts","model.pkl")
+            ohe_obj_path=os.path.join("artifacts","ohe.pkl")
 
             logging.info("loding the transfomation obj and model object")
             preprocessor_obj=load_object(preprocessor_obj_path)
@@ -24,9 +25,13 @@ class predict_pipeline:
             #now perform the feature engineering on top given data
             scaled_data=preprocessor_obj.transform(input_features)
             #now predict the output from the scaled input features
-            pred_value=model_obj.predict(scaled_data)
+            pred_values=model_obj.predict(scaled_data)
+            pred_value_index_number=np.argmax(pred_values,axis=1)[0]
+            output_labels=['Rainy', 'Cloudy', 'Sunny', 'Snowy']
+            pred_label=output_labels[pred_value_index_number]
 
-            return(pred_value)
+
+            return(pred_label)
         except Exception as e:
             raise Custom_Exception(e,sys)
         

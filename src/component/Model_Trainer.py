@@ -88,7 +88,12 @@ class Model_Trainer:
                     )
 
             #now save the object
+            print("saving the model in the pickle form")
+            logging.info("saving the model in the .pickle form")
             save_object(self.model_obj.model_cofig_path,model)
+            logging.info("saved the model in the .pickle form")
+            print("saved the model in the pickle form")
+
 
 
         except Exception as e:

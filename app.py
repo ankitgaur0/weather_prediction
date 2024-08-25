@@ -1,4 +1,7 @@
 from flask import Flask,request,render_template
+import numpy as np
+from src.Utils import load_object
+import os,sys
 from src.pipeline.test_pipeline import Custom_data,predict_pipeline
 
 
@@ -31,10 +34,14 @@ def predict_datapoints():
 
         predict_obj=predict_pipeline()
         pred=predict_obj.predict_target(df)
+        '''pred_index_number=np.argmax(pred,axis=1)[0]
+        #load the ohe hot encoder object to do inverse transform
+        ohe_obj=load_object("artifacts/ohe.pkl")
+        pred_label=ohe_obj.inverse_transform([[pred_index_number]])'''
 
         result=pred
         return render_template("result.html",final_result=result)
     
 
 if __name__=="__main__":
-    app.run(debug=True,host='0.0.0.0', port=8080)
+    app.run(debug=True)
