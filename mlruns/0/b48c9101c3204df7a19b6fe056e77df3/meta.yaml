@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/weather/mlruns/0/b48c9101c3204df7a19b6fe056e77df3/artifacts
+end_time: 1724846788887
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b48c9101c3204df7a19b6fe056e77df3
+run_name: gregarious-owl-729
+run_uuid: b48c9101c3204df7a19b6fe056e77df3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724846787576
+status: 4
+tags: []
+user_id: ankit

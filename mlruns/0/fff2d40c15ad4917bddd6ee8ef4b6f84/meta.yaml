@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/weather/mlruns/0/fff2d40c15ad4917bddd6ee8ef4b6f84/artifacts
+end_time: 1724848015514
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fff2d40c15ad4917bddd6ee8ef4b6f84
+run_name: peaceful-hare-937
+run_uuid: fff2d40c15ad4917bddd6ee8ef4b6f84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724848015025
+status: 4
+tags: []
+user_id: ankit

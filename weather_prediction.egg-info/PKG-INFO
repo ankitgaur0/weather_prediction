@@ -10,3 +10,6 @@ Requires-Dist: matplotlib
 Requires-Dist: seaborn
 Requires-Dist: scikit-learn
 Requires-Dist: Flask
+Requires-Dist: tensorflow
+Requires-Dist: mlflow
+Requires-Dist: dvc

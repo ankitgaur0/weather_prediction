@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/weather/mlruns/0/298e827029fd406f844cec3776ec553a/artifacts
+end_time: 1724848600285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 298e827029fd406f844cec3776ec553a
+run_name: ambitious-robin-303
+run_uuid: 298e827029fd406f844cec3776ec553a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724848583074
+status: 3
+tags: []
+user_id: ankit

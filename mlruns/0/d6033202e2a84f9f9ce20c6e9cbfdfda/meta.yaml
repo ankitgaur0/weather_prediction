@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/weather/mlruns/0/d6033202e2a84f9f9ce20c6e9cbfdfda/artifacts
+end_time: 1724847625450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6033202e2a84f9f9ce20c6e9cbfdfda
+run_name: sneaky-bee-842
+run_uuid: d6033202e2a84f9f9ce20c6e9cbfdfda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724847624950
+status: 4
+tags: []
+user_id: ankit

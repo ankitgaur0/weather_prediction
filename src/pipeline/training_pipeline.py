@@ -4,6 +4,7 @@ from pathlib import Path
 from src.component.Data_Ingestion import Data_Ingestions
 from src.component.Data_Transformer import Data_Transformation
 from src.component.Model_Trainer import Model_Trainer
+from src.component.Model_Evaluation import Model_Evaluate
 from src.Logger import logging
 from src.Exception_handler import Custom_Exception
 
@@ -24,5 +25,10 @@ try:
     Model_trainer_object=Model_Trainer()
     Model_trainer_object.initate_model(train_array,test_array)
     logging.info("completed the passing the data to Model_Trainer")
+
+    #making the object of the Model Evaluate class
+    Model_Evaluate_obj=Model_Evaluate()
+    Model_Evaluate_obj.initiate_data_evaluation(test_array)
+
 except Exception as e:
     raise Custom_Exception(e,sys)
