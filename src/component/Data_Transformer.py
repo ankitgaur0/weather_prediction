@@ -95,7 +95,7 @@ class  Data_Transformation:
             train_target_data=ohe.fit_transform(train_target_data)
             test_target_data=ohe.fit_transform(test_target_data)
             #save the ohe object for getting inverse_transform
-            save_object(self.transformer_obj.One_hot_encoder_path,obj=ohe)
+            #save_object(self.transformer_obj.One_hot_encoder_path,obj=ohe)
             # np.c_ is used to concate the array 1D ( form ) to array 2D form.
             train_array=np.c_[input_train_data_array,np.array(train_target_data)]
             test_array=np.c_[input_test_data_array,np.array(test_target_data)]

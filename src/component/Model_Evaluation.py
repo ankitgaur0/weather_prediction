@@ -32,6 +32,7 @@ class Model_Evaluate:
             model_path=os.path.join("artifacts","model.pkl")
             model=load_object(model_path)
 
+            mlflow.set_registry_uri("https://dagshub.com/ankitgaur0/weather_prediction.mlflow")
             tracking_url_store=urlparse(mlflow.get_tracking_uri()).scheme
 
             logging.info("activate the mlflow activation")
